@@ -1,0 +1,13 @@
+# Images, sorties, informations locales à ne pas publier
+*.jpg
+*.jpeg
+*.png
+*.webp
+Rapport-Qwen3-VL/
+trace.json
+rapport.html
+rapport.md
+.DS_Store
+__pycache__/
+*.pyc
+.env
